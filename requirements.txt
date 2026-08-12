@@ -1,0 +1,24 @@
+# Core
+pandas
+numpy
+matplotlib
+seaborn
+
+# Notebooks 1-7, 10-11: classic ML
+scikit-learn
+scikit-learn-extra
+xgboost
+imbalanced-learn
+hdbscan
+opencv-python-headless
+nltk
+openpyxl
+
+# Notebooks 8, 9, 11: neural networks / deep learning
+tensorflow
+
+# Notebook 11: hyperparameter tuning
+optuna
+
+# Notebooks 9, 11 also require the Kaggle CLI:
+# pip install kaggle
