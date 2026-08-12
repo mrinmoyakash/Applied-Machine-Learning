@@ -1,4 +1,4 @@
-# Machine Learning Lab
+# Applier Machine Learning
 
 A self-contained set of hands-on notebooks for learning machine learning, originally developed by
 **Mrinmoy Biswas Akash** for an ML lab course and now adapted for independent, self-paced study.
